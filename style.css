@@ -18,7 +18,7 @@ html {
     background: linear-gradient(
         rgba(0, 0, 0, 0.8),
         rgba(0, 0, 0, 0.7)),
-        url('./henki-bAXz8ZygSdc-unsplash.jpg') no-repeat center;
+        url('./bg.jpg') no-repeat center;
     background-size: cover;  
 }
 
